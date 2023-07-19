@@ -11,6 +11,4 @@ class Graphing(Scene):
         func_label = MathTex("y = x^2").scale(1.2).next_to(parab, RIGHT, buff = .3).set_color(BLUE)
         self.play(DrawBorderThenFill(plane))
         self.play(Create(VGroup(parab, labels, func_label)), run_time = 2.5)
-        circ = Circle(radius = 6)
-        self.play(Create(circ))
         
