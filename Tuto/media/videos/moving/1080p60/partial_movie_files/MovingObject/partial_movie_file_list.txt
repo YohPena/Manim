@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/moving/1080p60/partial_movie_files/MovingObject/1413466013_317533519_223132457.mp4'
+file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/moving/1080p60/partial_movie_files/MovingObject/1672018281_1213871207_2403608309.mp4'
+file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/moving/1080p60/partial_movie_files/MovingObject/1672018281_20080613_3026277890.mp4'
+file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/moving/1080p60/partial_movie_files/MovingObject/1672018281_4218774645_152751102.mp4'
+file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/moving/1080p60/partial_movie_files/MovingObject/1672018281_3024933951_4048063821.mp4'
