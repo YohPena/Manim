@@ -12,3 +12,6 @@ class Graphing(Scene):
         self.play(DrawBorderThenFill(plane))
         self.play(Create(VGroup(parab, labels, func_label)), run_time = 2.5)
         
+        area = plane.get_riemann_rectangles(graph = parab, x_range = [-2,3], dx = .2, stroke_width = .1, stroke_color = WHITE)
+
+        self.play(Create(area), run_time = 2)

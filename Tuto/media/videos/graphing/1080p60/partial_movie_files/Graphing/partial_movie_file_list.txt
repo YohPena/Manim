@@ -1,3 +1,4 @@
 # This file is used internally by FFMPEG.
 file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/graphing/1080p60/partial_movie_files/Graphing/1413466013_2762921142_223132457.mp4'
 file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/graphing/1080p60/partial_movie_files/Graphing/1672018281_2496607532_509038934.mp4'
+file 'file:C:/Users/Yohan PEÑARANDA/Documents/GitHub/Manim/Tuto/media/videos/graphing/1080p60/partial_movie_files/Graphing/1672018281_4213682816_2162076078.mp4'
